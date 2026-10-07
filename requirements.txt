@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+hmmlearn>=0.3
+yfinance>=0.2.40
+tqdm
+jupyter
